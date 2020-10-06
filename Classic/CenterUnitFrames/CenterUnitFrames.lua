@@ -1,0 +1,6 @@
+TargetFrame:ClearAllPoints()
+TargetFrame:SetPoint("CENTER",UIParent,250,-180)
+TargetFrame:SetUserPlaced(true)
+PlayerFrame:ClearAllPoints()
+PlayerFrame:SetPoint("CENTER",UIParent,-250,-180)
+PlayerFrame:SetUserPlaced(true)

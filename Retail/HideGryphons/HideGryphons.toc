@@ -1,0 +1,4 @@
+## Interface: 11302
+## Title: HideGryphons
+## Notes: Removes gryphon art from default Blizzard UI
+HideGryphons.lua
